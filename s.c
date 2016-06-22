@@ -3,7 +3,7 @@ using namespace std;
 class company
 {
  public:
-   float amount;
+   float amount,amt;
    string cname;
 };
 int main()
